@@ -1,0 +1,74 @@
+{
+  "products": [
+    {
+      "id": "27",
+      "name": "Handcrafted Concrete Hatsss",
+      "image": "http://lorempixel.com/640/480/fashion",
+      "price": "580.00"
+    },
+    {
+      "id": "28",
+      "name": "Incredible Cotton Tuna",
+      "image": "http://lorempixel.com/640/480/food",
+      "price": "57.00"
+    },
+    {
+      "id": "t4au2d5wc",
+      "name": "banh kem",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-6e87e.appspot.com/o/images%2F95254462_561731424757133_1247022404038678185_n.jpg?alt=media&token=5b10caf4-8cd5-4e11-ad9c-c48ced9e8dd8",
+      "price": "407.00",
+      "des": "ngon lam",
+      "status": "còn hàng"
+    },
+    {
+      "id": "1tm2f9war",
+      "name": "Intelligent Wooden Shirt",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-6e87e.appspot.com/o/images%2Fqqq.PNG?alt=media&token=56a847ed-1c38-4636-8ff9-b9cab2e6f8da",
+      "price": "407.00",
+      "des": "qsqiiii",
+      "status": "còn hàng"
+    },
+    {
+      "id": "lkqm1jwoh",
+      "name": "banh kem",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-6e87e.appspot.com/o/images%2Fqqq.PNG?alt=media&token=2c73446b-10ef-4ef0-a599-d369406cb906",
+      "price": "461.00",
+      "des": "Cung cấp nước",
+      "status": "còn hàng",
+      "cate": "bánh ngọt"
+    },
+    {
+      "id": "5waa415wj",
+      "name": "bánh bò",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-6e87e.appspot.com/o/images%2Fstock-photo-246662473.jpg?alt=media&token=595fdbaa-ae03-4165-86e7-99cbdd9f3544",
+      "price": "407.00",
+      "des": "ngon lam",
+      "status": "còn hàng",
+      "cate": "glue"
+    }
+  ],
+  "category": [
+    {
+      "id": "1wbt7lsab",
+      "nameCate": "bánh ngọt",
+      "undefined": "aaaaa"
+    },
+    {
+      "id": "ez495u0xd",
+      "nameCate": "bánh kem",
+      "undefined": "aaaaathha"
+    },
+    {
+      "id": "m2ee3vsig",
+      "nameCate": "keo"
+    }
+  ],
+  "post": [
+    {
+      "id": "si23pxen2",
+      "namePost": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-6e87e.appspot.com/o/images%2Ffdc6130fd81d25437c0c.jpg?alt=media&token=05c1cfaa-fa74-4eb1-a41b-816a1899029a",
+      "desc": "<p>aaaaaaaaaaaaaaaaaa</p>"
+    }
+  ]
+}
